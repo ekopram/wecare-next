@@ -16,12 +16,8 @@ import {
   TablePagination,
   useTheme,
 } from "@mui/material";
-// import Header from "../components/Header";
 import { nanoid } from "nanoid";
 import { Fragment } from "react";
-// import ReadOnlyRowAppointment from "../components/ReadOnlyRowAppointment";
-// import EditableRowAppointment from "../components/EditableRowAppointment";
-// import { tokens } from "../theme";
 import Header from "@/components/Header";
 import ReadOnlyRowAppointment from "@/components/ReadOnlyRowAppointment";
 import EditableRowAppointment from "@/components/EditableRowAppointment";
